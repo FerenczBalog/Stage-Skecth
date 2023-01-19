@@ -1,4 +1,4 @@
-export default class Section {
+export default class Carousel {
     constructor (
         
     )
