@@ -1,5 +1,15 @@
+import PerformanceDesc from "/assets/PerformanceDesc.mjs";
+
 export default class Section {
-    constructor (
+    constructor () {
         
-    )
+    }
+
+    render() {
+        return`
+            <section>
+                ${new PerformanceDesc().render()}
+            </section>
+        `
+    }
 }
