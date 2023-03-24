@@ -1,72 +1,24 @@
 export default class PerformanceDesc {
-    constructor () {
-        
+    constructor (props) {
+        this.props = props;
+
+        //console.log(this.props)
     }
 
     render() {
         return`
-            <div class="d-flex justify-content-center mt-5">
+            <div class="d-flex justify-content-center flex-reverse mt-5">
                 <div class="col-4">
-                    <h2>Heading 2</h2>
-                    <p>Lorem ipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsum
-                        ipsum dolor
-                    </p>
+                    <h2>${this.props.name}</h2>
+                    <p>${this.props.description}</p>
                 </div>
 
                 <div class="col-4">
                     <p>
-                        <img src="/media/bgall.jpg" class="img-fluid">
+                        <img src="${this.props.image}" class="img-fluid">
                     </p>
                 </div>
-            </div>
-
-            <div class="d-flex justify-content-center mt-5">
-                <div class="col-4">
-                    <h2>Heading 2</h2>
-                    <p>Lorem ipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsum
-                        ipsum dolor
-                    </p>
-                </div>
-
-                <div class="col-4">
-                    <p>
-                        <img src="/media/bgall.jpg" class="img-fluid">
-                    </p>
-                </div>
-            </div>
-
-            <div class="d-flex justify-content-center mt-5">
-                <div class="col-4">
-                    <h2>Heading 2</h2>
-                    <p>Lorem ipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsumipsumipsum
-                        ipsumipsumipsumipsumipsum
-                        ipsum dolor
-                    </p>
-                </div>
-
-                <div class="col-4">
-                    <p>
-                        <img src="/media/bgall.jpg" class="img-fluid">
-                    </p>
-                </div>
-            </div>
+            </div>            
         `
     }
 }
