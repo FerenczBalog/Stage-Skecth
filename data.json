@@ -5,7 +5,7 @@
         "year" : "2023",
 
         "director" : "Varga Ibolya",
-        "actors" : "Mostis Balázs, Giriti Réka, Csortán Márton, Patka Ildikó, Pünkösti Laura, Balogh Dorottya, Péter Izolda, Domokos Szabolcs",
+        "actors" : "Mostis Balázs, Giriti Réka, Csortán Márton, </br>Patka Ildikó, Pünkösti Laura, Balogh Dorottya, </br>Péter Izolda, Domokos Szabolcs",
         "sound" : "Domokos Előd",
         "stageDir" : "Kovács Ferenc",
         "light" : "Almási Attila",
@@ -25,7 +25,21 @@
         "ExtraSoundOut" : "AKG C1000 efekteknek",
         "ExtraLightsOut" : "1db halogén reflektor CTB foliával",
 
+        "sketch" : "media/elefant/10.jpg",
+
         "video" : " ",
+
+        "carousel" : {
+            "image1" : "media/elefant/1.jpg",
+            "image2" : "media/elefant/2.jpg",
+            "image3" : "media/elefant/3.jpg",
+            "image4" : "media/elefant/4.jpg",
+            "image5" : "media/elefant/5.jpg",
+            "image6" : "media/elefant/6.jpg",
+            "image7" : "media/elefant/7.jpg",
+            "image8" : "media/elefant/8.jpg",
+            "image9" : "media/elefant/9.jpg"
+        },
 
         "techAssistLeft" : "ELSŐ FELVONÁS </br></br> FÜGGÖNY KI: Csortán Márton </br> I. </br> 1. Aragáz & Kenguruk </br> 2. Zsiráf & rádió </br> 3. Strucc </br> 4. Zsiráf & Vonat </br> 5. Pávián & Autó </br> 6. Kenguruk & Hajó </br></br> II. Mindenki kiáltja: KROKODILUSOK...    --  lemennek a díszletek: </br> 1. Dupla pálma -Csortán Márton </br> 2. Dzsungel -Balog Ferencz </br> 3. Sima pálma -Domokos Szabolcs </br></br> III. Dombok emelése: </br> 1. Kis zöld domb -Csortán Márton </br> 2. Barna domb -Horvát Jonatán </br> 3. Napos domb -Balog Ferencz </br></br> IV. A folyónál tartani a dombot míg tart a fürdés -Horvát Jonatán </br></br> V. Ebédnél a szemetes amikor indulna tovább az elefánt -Balog Ferencz, Horvát Jonatán </br></br> FÜGGÖNY BE -Csortán Márton </br></br></br> MÁSODIK FELVONÁS </br></br> FÜGGÖNY KI: Horvát Jonatán </br> I. Folyó le zenére: </br> 1. Kis Domb -Horvát Jonatán, Csortán Márton </br> 2. Szélesnagyfolyó -Domokos Szabolcs, Pünkösti Laura </br> 3. Refi -Balog Ferencz </br></br> II. 1. Pávián & Pálma -Csortán Márton </br> 2. Eukaliptuszfa & Vizíló -Balog Ferencz, Domokos Szabolcs </br> III. Amint elindul a zebra nagydomb fel -Horvát Jonatán, Balog Ferencz </br></br> IV. a TIGRIS mondja: Köszönöm a játékot.  -- Nagy domb le -Horvát Jonatán, Balogh Dorottya </br></br> V. Vissza az első kép: </br> 1. Dzsungel -Domokos Szabolcs </br> 2. Dupla Pálma -Csortán Márton </br> 3. Sima Pálma -Balog Ferencz </br></br> VI. Sima Pálma le amikor az elefánt kidönti -Balog Ferencz, Péter Izolda(leveszi a páviánt a fáról miútán kidőlt) </br></br> FÜGGÖNY BE -Csortán Márton</br></br>"   
     }

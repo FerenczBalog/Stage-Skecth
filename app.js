@@ -1,6 +1,7 @@
 import Header from "./assets/Header.mjs";
 import Section from "./assets/Section.mjs";
 import DataHandler from "./assets/dataHandler.mjs";
+import Footer from "./assets/footer.mjs";
 
 class App {
 
@@ -10,7 +11,6 @@ class App {
      
    async render(container) {
         this.data = await DataHandler.fetchData()
-        this.carousel = await DataHandler.fetchCarousel()
 
         const main = document.createElement("main");
         const documentFragment = document.createDocumentFragment();
@@ -20,6 +20,7 @@ class App {
         `
             ${new Header(this.data).render()}
             ${new Section(this.data).render()}
+            ${new Footer().render()}
         `;
 
         documentFragment.appendChild(main);

@@ -1,4 +1,4 @@
-import PerformanceDesc from "/assets/PerformanceDesc.mjs";
+import Rider from "/assets/Rider.mjs";
 
 export default class Section {    
    constructor (data) {
@@ -11,7 +11,7 @@ export default class Section {
         if(this.descriptions.lenght > 0) {
             return;
         }
-        this.data.forEach(description => this.descriptions.push(new PerformanceDesc(description)))
+        this.data.forEach(description => this.descriptions.push(new Rider(description)))
     }
 
     render() {

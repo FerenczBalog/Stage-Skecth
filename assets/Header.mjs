@@ -10,7 +10,7 @@ export default class Header {
         return `
         <section class="d-flex justify-content-around bg-black text-white">
             <button type="Button" class="bg-black text-light AddNew" style="border:none"> </a></button>
-            <h5 class="mt-2">${this.heading}</h5>
+            <h5 class="mt-2">${this.heading} <sub><small>v.demo</small></sub></h5>
             <div class="mt-2"> </div>
         </section>
         `;
