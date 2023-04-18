@@ -5,7 +5,7 @@ export default class Rider {
 
     render() {
         return`
-            <div>
+            <div">
 
                 <div style="text-align: center; margin-top: 2rem">
                     <h2>${this.props.name}</h2></br>
@@ -18,39 +18,40 @@ export default class Rider {
                     <p><strong>Díszítők:</strong> ${this.props.stageTech}</p>
                     </br></br>
                 </div>
-                <div style="display: grid; grid-template-columns: 1fr 2fr; margin: 5rem 10rem 5rem 10rem">
+                <div class="container text-start mx-3">
 
-                        <div>
+                    <div class="row gap-5">
+                        <div class= col-md-5>
                             <h5><strong>Technikai leírás:</strong> </h5> 
-                        </br>
+                            </br>
 
-                        <h6><strong>Helyi színpad:</strong> </h6> 
-                        </br>
+                            <h6><strong>Helyi színpad:</strong> </h6> 
+                            </br>
 
-                        <p><strong>Igények:</strong> ${this.props.needs}</p>
-                        <p><strong>Szerelési idő:</strong> ${this.props.time}</p>
-                        <p><strong>Méretek:</strong> ${this.props.sizes}</p>
-                        <p><strong>Megjegyzés:</strong> ${this.props.notes}</p>
-                        <p><strong>Extra hang:</strong> ${this.props.ExtraSound}</p>
-                        <p><strong>Extra fény:</strong> ${this.props.ExtraLights}</p>
-                        </br>
+                            <p><strong>Igények:</strong> ${this.props.needs}</p>
+                            <p><strong>Szerelési idő:</strong> ${this.props.time}</p>
+                            <p><strong>Méretek:</strong> ${this.props.sizes}</p>
+                            <p><strong>Megjegyzés:</strong> ${this.props.notes}</p>
+                            <p><strong>Extra hang:</strong> ${this.props.ExtraSound}</p>
+                            <p><strong>Extra fény:</strong> ${this.props.ExtraLights}</p>
+                            </br>
 
-                        <h6><strong>Kiszállás:</strong> </h6> </br>
+                            <h6><strong>Kiszállás:</strong> </h6> </br>
 
-                        <p><strong>Igények:</strong> ${this.props.needsOut}</p>
-                        <p><strong>Szerelési idő:</strong> ${this.props.timeOut}</p>
-                        <p><strong>Méretek:</strong> ${this.props.sizes}</p>
-                        <p><strong>Megjegyzés:</strong> ${this.props.notesOut}</p>
-                        <p><strong>Extra hang:</strong> ${this.props.ExtraSoundOut}</p>
-                        <p><strong>Extra fény:</strong> ${this.props.ExtraLightsOut}</p>
-                        </br></br>                    
-                    </div>
+                            <p><strong>Igények:</strong> ${this.props.needsOut}</p>
+                            <p><strong>Szerelési idő:</strong> ${this.props.timeOut}</p>
+                            <p><strong>Méretek:</strong> ${this.props.sizes}</p>
+                            <p><strong>Megjegyzés:</strong> ${this.props.notesOut}</p>
+                            <p><strong>Extra hang:</strong> ${this.props.ExtraSoundOut}</p>
+                            <p><strong>Extra fény:</strong> ${this.props.ExtraLightsOut}</p>
+                            </br></br>                    
+                        </div>
 
-                    <div style="margin-left: 15rem">
-                        <h5><strong>Díszítői közremükődés:</strong> </h5> </br>
-                        <p>${this.props.techAssistLeft}</p>
-                    </div>
-
+                        <div class= col-md-5>
+                            <h5><strong>Díszítői közremükődés:</strong> </h5> </br>
+                            <p>${this.props.techAssistLeft}</p>
+                        </div>
+                    <div >
                 </div>
 
                 <div>
