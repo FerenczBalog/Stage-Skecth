@@ -5,7 +5,7 @@ export default class Rider {
 
     render() {
         return`
-            <div">
+            <div>
 
                 <div style="text-align: center; margin-top: 2rem">
                     <h2>${this.props.name}</h2></br>
@@ -18,7 +18,8 @@ export default class Rider {
                     <p><strong>Díszítők:</strong> ${this.props.stageTech}</p>
                     </br></br>
                 </div>
-                <div class="container text-start mx-3">
+                
+                <div class="container text-start">
 
                     <div class="row gap-5">
                         <div class= col-md-5>
