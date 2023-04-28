@@ -5,7 +5,7 @@ export default class Rider {
 
     render() {
         return`
-            <div">
+            <div >
                 <div style="text-align: center; margin-top: 2rem">
                     <h2>${this.props.name}</h2></br>
                     <p><strong>Felújítva:</strong> ${this.props.year}</p>

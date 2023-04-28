@@ -18,7 +18,7 @@ export default class Header {
         }
         this.data.forEach(selection => this.selections.push(new Select(selection)))
     }
-
+/*
     getOptions() {
         fetch(`data.json`, {
             method: `GET`,
@@ -41,20 +41,20 @@ export default class Header {
             console.error(`Error:`, error);
         });
     }
-
+*/
 
     render() {
 
        
-        this.componentWillRender();
+       // this.componentWillRender();
        // let selectionsHTML = "";
        // this.selections.forEach(selection => selectionsHTML += selection.render())
 
         return `
         <section class="d-flex justify-content-around bg-black text-white">
-            <button type="Button" class="bg-black text-light AddNew" style="border:none">New Performance</a></button>
+            <button type="Button" class="bg-black text-light AddNew" style="border:none"> </a></button>
             <h5 class="mt-2">${this.heading}</h5>
-            <div class="mt-2">${this.getOptions()}</div>
+            <div class="mt-2"> </div>
         </section>
         `;
     }

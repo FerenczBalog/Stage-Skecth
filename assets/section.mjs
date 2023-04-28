@@ -7,20 +7,26 @@ export default class Section {
         this.descriptions = []
     }     
 
+    get thumbnailMarkup() {
+        let thumbnailsHTML = "";
+        this.descriptions.forEach(description => thumbnailsHTML += `${description.render()}`);    
+
+        return thumbnailsHTML;
+    }
+
     componentWillRender() {
         if(this.descriptions.lenght > 0) {
             return;
         }
-        this.data.forEach(description => this.descriptions.push(new PerformanceDesc(description)))
+        this.data.forEach(description => this.descriptions.push(new PerformanceDesc(description)));
     }
 
     render() {
-        this.componentWillRender();
-        let descriptionsHTML = "";
-        this.descriptions.forEach(description => descriptionsHTML += description.render());
+        this.componentWillRender(); 
+
         return`
             <section>
-                ${descriptionsHTML}
+                ${this.thumbnailMarkup}
             </section>
         `
     }
