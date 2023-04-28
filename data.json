@@ -54,7 +54,7 @@
         "image" : "media/ludas/banner.jpg",
         
         "director" : "Varga Ibolya",
-        "actors" : "Szűcs Tamás, Mostis Balázs, Patka Ildikó, Pünkösti Laura, Kötő Áron, Domokos Szabocs, Balogh Dorottya, Giriti Réka, Péter Izolda",
+        "actors" : "Szűcs Tamás, Mostis Balázs, Patka Ildikó, </br> Pünkösti Laura, Kötő Áron, </br> Domokos Szabocs, Balogh Dorottya, Giriti Réka, Péter Izolda",
         "sound" : "Domokos Előd",
         "stageDir" : "Kovács Ferenc",
         "light" : "Almási Attila",
@@ -62,7 +62,7 @@
 
         "needs" : "14 aluminium dobogó (6db Nivtech, 8db PowerDynamics), 16 db 20cm-es dobogó láb, 8db 40cm-es szögletes fobogó láb, 12db 40cm-es Nivtech láb, 8db 60cm-es szögletes dobogó láb, 3 tekercs fehér szőnyeg, 2 fésű + állvány",
         "time"  : "2h",
-        "sizes" : "4 dobogó rendszer(h/sz/m) cm : 1. 200x400x20 </br> 2. 400x400x40 </br> 3. 100x200x60",
+        "sizes" : "3 dobogó rendszer(h/sz/m) cm :</br> 1. 200x400x20 </br> 2. 400x400x40 </br> 3. 100x200x60",
         "notes" : "A két 2x9 méter hosszú szőnyeg a 3-7. sor dobogóra, A harmadik tekercs az első két sor dobogóra",
         "ExtraSound" : " ",
         "ExtraLights" : "1db halogén reflektor",
