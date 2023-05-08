@@ -133,5 +133,143 @@
         },
         
         "techAssistLeft":" </br></br>"
+    },
+    {
+        "id":"4",
+        "name":"Palkó és Pannna",
+        "year":"2021-as",
+        "description":"This is a short description, it could be longer, but let it be a short one",
+        "image":"media/plumplum/banner.png",
+        "director":"Pünkösti Laura",
+        "actors":"Mostis Balázs, Patka Ildikó, Kötő Áron",
+        "sound":"Domokos Előd",
+        "stageDir":"Kovács Ferenc",
+        "light":"Almási Attila",
+        "stageTech":"Balog Ferencz, Horvát Jonatán",
+        
+        "needs":" ",
+        "time":"30'",
+        "sizes":"A talapzat eleje 400cm-re a szőnyegtől",
+        "notes":"Egy 150-200cm széles láb az első trégerre",
+        "ExtraSound":"Egy monitor a a díszlet mögé",
+        "ExtraLights":"1db halogén reflektor állványon a díszlet mögé",        
+        "transport":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
+        
+        "needsOut":" ",
+        "timeOut":"30'",
+        "sizesOut":" ",
+        "notesOut":" ",
+        "ExtraSoundOut":" ",
+        "ExtraLightsOut":" ",
+        
+        "sketch":"media/plumplum/10.png",
+        "video":" ",
+        
+        "carousel":{
+            "image1":"media/plumplum/1.jpg",
+            "image2":"media/plumplum/2.jpg",
+            "image3":"media/plumplum/3.jpg",
+            "image4":"media/plumplum/4.jpg",
+            "image5":"media/plumplum/5.jpg",
+            "image6":"media/plumplum/6.jpg",
+            "image7":"media/plumplum/7.jpg",
+            "image8":"media/plumplum/8.jpg",
+            "image9":"media/plumplum/9.jpeg",
+            "image10":"media/plumplum/10.png"
+        },
+        
+        "techAssistLeft":" </br></br>"
+    },
+    {
+        "id":"5",
+        "name":"Brémai Muzsikusok",
+        "year":"2021",
+        "description":"This is a short description, it could be longer, but let it be a short one",
+        "image":"media/plumplum/banner.png",
+        "director":" ",
+        "actors":"Mostis Balázs, Domokos Szabocs, Balogh Dorottya, Szűcs Tamás, Kötő Áron",
+        "sound":"Domokos Előd",
+        "stageDir":"Kovács Ferenc",
+        "light":"Almási Attila",
+        "stageTech":"Balog Ferencz, Horvát Jonatán",
+        
+        "needs":" ",
+        "time":"1h, 30'",
+        "sizes":"4x4 méter széles dobogó",
+        "notes":"a színpad fala eltakarva, a dobogók elejére egy régi színpadi láb ragasztva",
+        "ExtraSound":" ",
+        "ExtraLights":"1db halogén reflektor állványon a dobogók mögé",        
+        "transport":"A díszlet és a technika befér a Dokkerbe",
+        
+        "needsOut":"2 panó/láb",
+        "timeOut":"30'",
+        "sizesOut":" ",
+        "notesOut":" ",
+        "ExtraSoundOut":" ",
+        "ExtraLightsOut":" ",
+        
+        "sketch":"media/plumplum/10.png",
+        "video":" ",
+        
+        "carousel":{
+            "image1":"media/plumplum/1.jpg",
+            "image2":"media/plumplum/2.jpg",
+            "image3":"media/plumplum/3.jpg",
+            "image4":"media/plumplum/4.jpg",
+            "image5":"media/plumplum/5.jpg",
+            "image6":"media/plumplum/6.jpg",
+            "image7":"media/plumplum/7.jpg",
+            "image8":"media/plumplum/8.jpg",
+            "image9":"media/plumplum/9.jpeg",
+            "image10":"media/plumplum/10.png"
+        },
+        
+        "techAssistLeft":" </br></br>"
+    },
+    {
+        "id":"6",
+        "name":"Árnyak Színháza",
+        "year":"2022",
+        "description":"This is a short description, it could be longer, but let it be a short one",
+        "image":"media/plumplum/banner.png",
+        "director":" ",
+        "actors":"Mostis Balázs, Domokos Szabocs, Balogh Dorottya, Szűcs Tamás, Kötő Áron, Patka Ildikó, Péter Izolda, Horváth Jonatán",
+        "sound":"Domokos Előd",
+        "stageDir":"Kovács Ferenc",
+        "light":"Almási Attila",
+        "stageTech":"Balog Ferencz, Horvát Jonatán",
+        
+        "needs":" ",
+        "time":"40'",
+        "sizes":" ",
+        "notes":"a színpad fala eltakarva, </br> két láb teljesen kinyítva, mögéjük egy-egy asztal, </br> a 2 tépőzáras szufita ugyanoda ahova a lábak </br> 1 szufita az első trégerre. </br>A lila asztal eleje egyvonalban a függönnyel, a második állás 15cm előre </br> ",
+        "ExtraSound":" ",
+        "ExtraLights":" ",        
+        "transport":"",
+        
+        "needsOut":"2 panó/láb",
+        "timeOut":"30'",
+        "sizesOut":" ",
+        "notesOut":" ",
+        "ExtraSoundOut":" ",
+        "ExtraLightsOut":" ",
+        
+        "sketch":"media/plumplum/10.png",
+        "video":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
+        
+        "carousel":{
+            "image1":"media/plumplum/1.jpg",
+            "image2":"media/plumplum/2.jpg",
+            "image3":"media/plumplum/3.jpg",
+            "image4":"media/plumplum/4.jpg",
+            "image5":"media/plumplum/5.jpg",
+            "image6":"media/plumplum/6.jpg",
+            "image7":"media/plumplum/7.jpg",
+            "image8":"media/plumplum/8.jpg",
+            "image9":"media/plumplum/9.jpeg",
+            "image10":"media/plumplum/10.png"
+        },
+        
+        "techAssistLeft":"1. Függöny ki az első jelig - Amikor indul a gitár a szintin </br> 2. Fuggöny ki a harmadik jelig - Végszó: ,,... hogy csínos toronyházakat építsenek.'' </br> 3. Függönyt be a második jelre - Végszó: ,,És így is lett!'' </br> 4. Függöny ki teljesen - Végszó: ,,Kitárult előttük a világ!'' </br></br>"
     }
 ]
