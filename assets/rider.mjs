@@ -6,6 +6,8 @@ export default class Rider {
     render() {
         return`
             <div">
+            <p style="font-size:0.8rem; margin-left:1rem">Az oldal PDF-ként való nyomtatásához nyomja le CTRL + P billentyűket </p>
+
                 <div style="text-align: center; margin-top: 2rem">
                     <h2>${this.props.name}</h2></br>
                     <p><strong>Felújítva:</strong> ${this.props.year}</p>
@@ -18,9 +20,9 @@ export default class Rider {
                     </br></br>
                 </div>
 
-                <div class="container text-start mx-3">
+                <div class="container text-start">
 
-                    <div class="row gap-5">
+                    <div class="row gap-5 justify-content-md-center">
                         <div class= col-md-5>
                             <h5><strong>Technikai leírás:</strong> </h5> 
                             </br>
