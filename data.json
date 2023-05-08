@@ -45,7 +45,7 @@
     {
         "id":"2",
         "name":"Lúdas Matyi",
-        "year":"2023-as bemutató",
+        "year":"2023",
         "description":"This is a short description, it could be longer, but let it be a short one",
         "image":"media/ludas/banner.jpg",
         "director":"Varga Ibolya",
@@ -91,9 +91,9 @@
     {
         "id":"3",
         "name":"Plüm-Plüm Kalajndai",
-        "year":"2022-as bemutató",
+        "year":"2022",
         "description":"This is a short description, it could be longer, but let it be a short one",
-        "image":"media/plumplum/banner.png",
+        "image":"media/plumplum/banner.jpg",
         "director":"Varga Ibolya",
         "actors":"Mostis Balázs, Domokos Szabocs, Balogh Dorottya, Giriti Réka",
         "sound":"Domokos Előd",
@@ -137,9 +137,9 @@
     {
         "id":"4",
         "name":"Palkó és Pannna",
-        "year":"2021-as",
+        "year":"2021",
         "description":"This is a short description, it could be longer, but let it be a short one",
-        "image":"media/plumplum/banner.png",
+        "image":"media/palko/banner.jpeg",
         "director":"Pünkösti Laura",
         "actors":"Mostis Balázs, Patka Ildikó, Kötő Áron",
         "sound":"Domokos Előd",
@@ -149,9 +149,9 @@
         
         "needs":" ",
         "time":"30'",
-        "sizes":"A talapzat eleje 400cm-re a szőnyegtől",
-        "notes":"Egy 150-200cm széles láb az első trégerre",
-        "ExtraSound":"Egy monitor a a díszlet mögé",
+        "sizes":"Az asztal és a háttere között 125cm legyen",
+        "notes":"Egy 150-200cm széles láb az első trégerre. </br> Az asztal eleje legyen a tükör és függöny közötti folyosó közepén",
+        "ExtraSound":"",
         "ExtraLights":"1db halogén reflektor állványon a díszlet mögé",        
         "transport":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
         
@@ -162,20 +162,20 @@
         "ExtraSoundOut":" ",
         "ExtraLightsOut":" ",
         
-        "sketch":"media/plumplum/10.png",
+        "sketch":"media/bitmap.png",
         "video":" ",
         
         "carousel":{
-            "image1":"media/plumplum/1.jpg",
-            "image2":"media/plumplum/2.jpg",
-            "image3":"media/plumplum/3.jpg",
-            "image4":"media/plumplum/4.jpg",
-            "image5":"media/plumplum/5.jpg",
-            "image6":"media/plumplum/6.jpg",
-            "image7":"media/plumplum/7.jpg",
-            "image8":"media/plumplum/8.jpg",
-            "image9":"media/plumplum/9.jpeg",
-            "image10":"media/plumplum/10.png"
+            "image1":"media/palko/1.jpg",
+            "image2":"media/palko/2.jpg",
+            "image3":"media/palko/3.jpg",
+            "image4":"media/bitmap.png",
+            "image5":"media/bitmap.png",
+            "image6":"media/bitmap.png",
+            "image7":"media/bitmap.png",
+            "image8":"media/bitmap.png",
+            "image9":"media/bitmap.png",
+            "image10":"media/bitmap.png"
         },
         
         "techAssistLeft":" </br></br>"
@@ -185,7 +185,7 @@
         "name":"Brémai Muzsikusok",
         "year":"2021",
         "description":"This is a short description, it could be longer, but let it be a short one",
-        "image":"media/plumplum/banner.png",
+        "image":"media/bremai/banner.jpg",
         "director":" ",
         "actors":"Mostis Balázs, Domokos Szabocs, Balogh Dorottya, Szűcs Tamás, Kötő Áron",
         "sound":"Domokos Előd",
@@ -193,7 +193,7 @@
         "light":"Almási Attila",
         "stageTech":"Balog Ferencz, Horvát Jonatán",
         
-        "needs":" ",
+        "needs":"Egy kis fadobogó jobb olalra előre a fal és az aluminíum dobogók közé Áronkának",
         "time":"1h, 30'",
         "sizes":"4x4 méter széles dobogó",
         "notes":"a színpad fala eltakarva, a dobogók elejére egy régi színpadi láb ragasztva",
@@ -231,7 +231,7 @@
         "name":"Árnyak Színháza",
         "year":"2022",
         "description":"This is a short description, it could be longer, but let it be a short one",
-        "image":"media/plumplum/banner.png",
+        "image":"media/arnyak/banner.jpeg",
         "director":" ",
         "actors":"Mostis Balázs, Domokos Szabocs, Balogh Dorottya, Szűcs Tamás, Kötő Áron, Patka Ildikó, Péter Izolda, Horváth Jonatán",
         "sound":"Domokos Előd",
@@ -245,7 +245,7 @@
         "notes":"a színpad fala eltakarva, </br> két láb teljesen kinyítva, mögéjük egy-egy asztal, </br> a 2 tépőzáras szufita ugyanoda ahova a lábak </br> 1 szufita az első trégerre. </br>A lila asztal eleje egyvonalban a függönnyel, a második állás 15cm előre </br> ",
         "ExtraSound":" ",
         "ExtraLights":" ",        
-        "transport":"",
+        "transport":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
         
         "needsOut":"2 panó/láb",
         "timeOut":"30'",
@@ -254,22 +254,114 @@
         "ExtraSoundOut":" ",
         "ExtraLightsOut":" ",
         
-        "sketch":"media/plumplum/10.png",
-        "video":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
+        "sketch":"media/bitmap.png",
+        "video":"",
         
         "carousel":{
-            "image1":"media/plumplum/1.jpg",
-            "image2":"media/plumplum/2.jpg",
-            "image3":"media/plumplum/3.jpg",
-            "image4":"media/plumplum/4.jpg",
-            "image5":"media/plumplum/5.jpg",
-            "image6":"media/plumplum/6.jpg",
-            "image7":"media/plumplum/7.jpg",
-            "image8":"media/plumplum/8.jpg",
-            "image9":"media/plumplum/9.jpeg",
-            "image10":"media/plumplum/10.png"
+            "image1":"media/arnyak/1.jpg",
+            "image2":"media/arnyak/2.jpg",
+            "image3":"media/arnyak/3.jpg",
+            "image4":"media/arnyak/4.jpg",
+            "image5":"media/arnyak/5.jpg",
+            "image6":"media/arnyak/6.jpg",
+            "image7":"media/arnyak/7.jpg",
+            "image8":"media/arnyak/8.jpg",
+            "image9":"media/arnyak/9.jpeg",
+            "image10":"media/arnyak/10.jpg"
         },
         
         "techAssistLeft":"1. Függöny ki az első jelig - Amikor indul a gitár a szintin </br> 2. Fuggöny ki a harmadik jelig - Végszó: ,,... hogy csínos toronyházakat építsenek.'' </br> 3. Függönyt be a második jelre - Végszó: ,,És így is lett!'' </br> 4. Függöny ki teljesen - Végszó: ,,Kitárult előttük a világ!'' </br></br>"
+    },
+    {
+        "id":"7",
+        "name":"Féluton",
+        "year":"2021",
+        "description":"This is a short description, it could be longer, but let it be a short one",
+        "image":"media/feluton/banner.png",
+        "director":"Balog Dorotya, Mostis Balázs",
+        "actors":"Mostis Balázs, Balogh Dorottya",
+        "sound":"Domokos Előd",
+        "stageDir":"Kovács Ferenc",
+        "light":"Almási Attila",
+        "stageTech":"Balog Ferencz, Horvát Jonatán",
+        
+        "needs":" - ",
+        "time":"2h",
+        "sizes":" - ",
+        "notes":"a színpad fala eltakarva. </br> A függőny első három gyűrűje megy le mindkét oldalon, majd lábakkal el kell takarni a függönyt. </br>Az első vörös szufitát alulról rá kell akasztani a függöny gerendájára amjd egy zsinormentes szufitát rakni a lécre, a léc mögötti facsavarokra lehet akasztani a szufita gyűrűit </br> ",
+        "ExtraSound":" - ",
+        "ExtraLights":" - ",        
+        "transport":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
+        
+        "needsOut":"sötét terem",
+        "timeOut":"30'",
+        "sizesOut":" - ",
+        "notesOut":" - ",
+        "ExtraSoundOut":" - ",
+        "ExtraLightsOut":" - ",
+        
+        "sketch":"media/bitmap.png",
+        "video":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
+        
+        "carousel":{
+            "image1":"media/bitmap.png",
+            "image2":"media/bitmap.png",
+            "image3":"media/bitmap.png",
+            "image4":"media/bitmap.png",
+            "image5":"media/bitmap.png",
+            "image6":"media/bitmap.png",
+            "image7":"media/bitmap.png",
+            "image8":"media/bitmap.png",
+            "image9":"media/bitmap.png",
+            "image10":"media/bitmap.png"
+        },
+        
+        "techAssistLeft":" </br></br>"
+    },
+    {
+        "id":"8",
+        "name":"Eljöhetnél hozám!",
+        "year":"2022",
+        "description":"This is a short description, it could be longer, but let it be a short one",
+        "image":"media/eljohetnel/banner.jpg",
+        "director":"Varga Ibolya",
+        "actors":"Szűcs Tamás, Mostis Balázs, Patka Ildikó, </br> Pünkösti Laura, Kötő Áron, </br> Domokos Szabocs, Balogh Dorottya, Giriti Réka, Péter Izolda, </br> Patka Ildikó, Szűcs Tamás",
+        "sound":"Domokos Előd",
+        "stageDir":"Kovács Ferenc",
+        "light":"Almási Attila",
+        "stageTech":"Balog Ferencz, Horvát Jonatán",
+        
+        "needs":"Nagy lépcső, kis lépcső, kis dobogó",
+        "time":"1h",
+        "sizes":" ",
+        "notes":" ", 
+        "ExtraSound":" - ",
+        "ExtraLights":"1db halogén reflektor", 
+        
+        "carousel":{
+            "image1":"media/eljohetnel/1.jpg",
+            "image2":"media/eljohetnel/2.jpg",
+            "image3":"media/eljohetnel/3.jpg",
+            "image4":"media/eljohetnel/4.jpg",
+            "image5":"media/eljohetnel/5.jpg",
+            "image6":"media/eljohetnel/6.jpg",
+            "image7":"media/eljohetnel/7.jpg",
+            "image8":"media/eljohetnel/8.jpg",
+            "image9":"media/eljohetnel/9.jpg",
+            "image10":"media/eljohetnel/10.jpg"
+        },
+            
+        "transport":"utánfutó szükséges (MÉRETEK: h:3, sz:1.45, m:1.8)",
+        "needsOut":"2 fésű + állvány",
+        "timeOut":"30'",
+        "sizesOut":" ",
+        "notesOut":" ",
+        "ExtraSoundOut":" ",
+        "ExtraLightsOut":"1db halogén reflektor",
+        
+        "sketch":" ",
+        "video":" ",
+        
+        "techAssistLeft":"1. Szikla be - indul a főcímdal Áronka után </br> 2. Dombok be, sorba - miközben megy le a szikla </br> 3. Dombok megtesznek rezegve 2 kört, jön be a ház + a talpa - amikor a Madárijesztő eltűnik a hátsó domb mögött a fiúval </br> 4. Megy le a nagy domb, megy fel a ház - megáll a szekér a nagy dombon </br> 5. Ház fordul - a Róka és a Madáríjesztő kimegy </br> 6. Ház fordul -   a Róka és a Madáríjesztő bemegy </br> 7. Seprűt megfogni - Boszi jön </br> 8. Seprűt elengedni - Boszi veszi el </br> 9. Ház fordul - Róka kimegy </br> 10. Ház fordul - Róka bemegy </br> 11. A dombok megtesznek egy kört majd mennek hátra és le - a Boszi és a Madáríjesztő megtesznek két kört </br> 12. Ház be - a harmadik dallamra </br> 13. Ház fordul - mindenki be </br> 14. Ház fordul -  a Róka kimegy, a Madárijesztő és a fiú megáll a ház mellett  </br></br> <strong> SZÜNET </strong> </br></br> 15. Ház fordul - Fény + zene </br> 16. Ház fordul - Fiú végszó: ,, Megyek és megetetem őket'' </br> 17. Megjelenik a széna a kapun miútán megfordult a ház </br> 18. Ház le - A Madáríjesztő integet, majd bemegy a házba </br> 19. Vissza a dombok </br> 20. Kis dobogó be  - Horváth Jonatán </br> 21. Vissza a ház - mind kimennek </br> 22. Ház le - elindulnak a ház elől </br> 23. Rendezői-jobb kapu kinyílik - Vénember jön be </br> 24. Mindkét kapu kinyílik - Róka dala végén, amint indul a kórus</br></br>"
     }
 ]
