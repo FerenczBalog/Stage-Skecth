@@ -83,7 +83,7 @@
         "ExtraSoundOut":" ",
         "ExtraLightsOut":"1db halogén reflektor",
         
-        "sketch":" ",
+        "sketch":"media/bitmap.png",
         "video":" ",
         
         "techAssistLeft":"1. FÜGGŐNY KI - Megmozdul Dotti kezének az árnyéka - Balog Ferencz </br> 2. Lingispirt kivinni - A táncosok kimennek - Balog Ferencz, Horváth Jonatán </br> 3. Botokat beadni a paraván mögül - A hajdúk lekötik Matyit - Horváth Jonatán, Pünkösti Laura </br> 4. Paravánokat előre tólni - Matyi botja és Döbrögi ostora összecsapódik a levegőben - Balog Ferencz, Horváth Jonatán </br></br>"
@@ -212,16 +212,16 @@
         "video":" ",
         
         "carousel":{
-            "image1":"media/plumplum/1.jpg",
-            "image2":"media/plumplum/2.jpg",
-            "image3":"media/plumplum/3.jpg",
-            "image4":"media/plumplum/4.jpg",
-            "image5":"media/plumplum/5.jpg",
-            "image6":"media/plumplum/6.jpg",
-            "image7":"media/plumplum/7.jpg",
-            "image8":"media/plumplum/8.jpg",
-            "image9":"media/plumplum/9.jpeg",
-            "image10":"media/plumplum/10.png"
+            "image1":"media/bitmap.png",
+            "image2":"media/bitmap.png",
+            "image3":"media/bitmap.png",
+            "image4":"media/bitmap.png",
+            "image5":"media/bitmap.png",
+            "image6":"media/bitmap.png",
+            "image7":"media/bitmap.png",
+            "image8":"media/bitmap.png",
+            "image9":"media/bitmap.png",
+            "image10":"media/bitmap.png"
         },
         
         "techAssistLeft":" </br></br>"
@@ -266,7 +266,7 @@
             "image6":"media/arnyak/6.jpg",
             "image7":"media/arnyak/7.jpg",
             "image8":"media/arnyak/8.jpg",
-            "image9":"media/arnyak/9.jpeg",
+            "image9":"media/arnyak/9.jpg",
             "image10":"media/arnyak/10.jpg"
         },
         
@@ -290,7 +290,7 @@
         "sizes":" - ",
         "notes":"a színpad fala eltakarva. </br> A függőny első három gyűrűje megy le mindkét oldalon, majd lábakkal el kell takarni a függönyt. </br>Az első vörös szufitát alulról rá kell akasztani a függöny gerendájára amjd egy zsinormentes szufitát rakni a lécre, a léc mögötti facsavarokra lehet akasztani a szufita gyűrűit </br> ",
         "ExtraSound":" - ",
-        "ExtraLights":" - ",        
+        "ExtraLights":"5db ledbar a tükörre, 1db a színpad közepére",        
         "transport":"utánfutó ajánlott (MÉRETEK: h:3, sz:1.45, m:1.8)",
         
         "needsOut":"sötét terem",
@@ -359,7 +359,7 @@
         "ExtraSoundOut":" ",
         "ExtraLightsOut":"1db halogén reflektor",
         
-        "sketch":" ",
+        "sketch":"media/eljohetnel/sketch.jpg",
         "video":" ",
         
         "techAssistLeft":"1. Szikla be - indul a főcímdal Áronka után </br> 2. Dombok be, sorba - miközben megy le a szikla </br> 3. Dombok megtesznek rezegve 2 kört, jön be a ház + a talpa - amikor a Madárijesztő eltűnik a hátsó domb mögött a fiúval </br> 4. Megy le a nagy domb, megy fel a ház - megáll a szekér a nagy dombon </br> 5. Ház fordul - a Róka és a Madáríjesztő kimegy </br> 6. Ház fordul -   a Róka és a Madáríjesztő bemegy </br> 7. Seprűt megfogni - Boszi jön </br> 8. Seprűt elengedni - Boszi veszi el </br> 9. Ház fordul - Róka kimegy </br> 10. Ház fordul - Róka bemegy </br> 11. A dombok megtesznek egy kört majd mennek hátra és le - a Boszi és a Madáríjesztő megtesznek két kört </br> 12. Ház be - a harmadik dallamra </br> 13. Ház fordul - mindenki be </br> 14. Ház fordul -  a Róka kimegy, a Madárijesztő és a fiú megáll a ház mellett  </br></br> <strong> SZÜNET </strong> </br></br> 15. Ház fordul - Fény + zene </br> 16. Ház fordul - Fiú végszó: ,, Megyek és megetetem őket'' </br> 17. Megjelenik a széna a kapun miútán megfordult a ház </br> 18. Ház le - A Madáríjesztő integet, majd bemegy a házba </br> 19. Vissza a dombok </br> 20. Kis dobogó be  - Horváth Jonatán </br> 21. Vissza a ház - mind kimennek </br> 22. Ház le - elindulnak a ház elől </br> 23. Rendezői-jobb kapu kinyílik - Vénember jön be </br> 24. Mindkét kapu kinyílik - Róka dala végén, amint indul a kórus</br></br>"
