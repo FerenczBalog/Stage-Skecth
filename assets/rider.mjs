@@ -6,7 +6,7 @@ export default class Rider {
     render() {
         return`
             <div">
-            <p style="font-size:0.8rem; margin-left:1rem">Az oldal PDF-ként való nyomtatásához nyomja le CTRL + P billentyűket </p>
+            <p style="font-size:0.8rem; margin-left:1rem">Az oldal PDF-ként való nyomtatásához nyomja le egyszerre a <strong>CTRL + P</strong> billentyűket </p>
 
                 <div style="text-align: center; margin-top: 2rem">
                     <h2>${this.props.name}</h2></br>
