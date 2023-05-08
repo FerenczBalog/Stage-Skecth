@@ -1,5 +1,66 @@
-import e from"./assets/Header.mjs";import t from"./assets/Router.mjs";import r from"./assets/Section.mjs";import n from"./assets/dataHandler.mjs";import s from"./assets/footer.mjs";import a from"./assets/rider.mjs";class App{constructor(){this.data=null,t.instance.subscribe(this.onRoutChanged.bind(this))}cleanApp(){let e=document.querySelector(".app");e&&document.querySelector("body").removeChild(e)}onRoutChanged(e){this.render(e)}componentToRender(e){if(null===e||"/"===e.link)return new r(this.data).render();if(e.link.includes("/rider?id")){let t=this.data.find(t=>t.id==e.link.split("=")[1]);if(t)return new a(t).render()}return'<h1 class="text-center">"Page not found"</h1>'}async render(t=null){null==this.data&&(this.data=await n.instance.fetchData()),this.cleanApp();let r=document.createElement("main"),a=document.createDocumentFragment();r.classList.add("app"),r.innerHTML=`
-            ${new e(this.data).render()}
-            ${this.componentToRender(t)}
-            ${new s().render()}
-        `,a.appendChild(r),document.querySelector("body").appendChild(a.firstElementChild)}}let app=new App;app.render();
+import Header from "./assets/Header.mjs";
+import Router from "./assets/Router.mjs";
+import Section from "./assets/Section.mjs";
+import DataHandler from "./assets/dataHandler.mjs"
+import Footer from "./assets/footer.mjs";
+import Rider from "./assets/rider.mjs";
+
+class App {
+
+    constructor() {
+        this.data = null;
+
+        Router.instance.subscribe(this.onRoutChanged.bind(this))
+    }
+
+    cleanApp() {
+        const app = document.querySelector(".app");
+
+        if(app) {
+            document.querySelector("body").removeChild(app);
+        }
+    } 
+     
+    onRoutChanged(state) {
+        this.render(state);
+    }
+
+    componentToRender(state) {
+        if (state === null || state.link === `/`) {
+            return new Section(this.data).render();
+        }
+
+        if (state.link.includes("/rider?id")) {
+            const riderData = this.data.find(d => d.id == state.link.split("=")[1])
+
+            if (riderData) {
+                return new Rider(riderData).render()
+            }
+        }
+        return `<h1 class="text-center">"Page not found"</h1>`
+    }
+
+   async render(state = null) {
+        if(this.data == null) {
+            this.data = await DataHandler.instance.fetchData();
+        } 
+        this.cleanApp()
+
+        const main = document.createElement("main");
+        const documentFragment = document.createDocumentFragment();
+
+        main.classList.add("app");
+        main.innerHTML =
+        `
+            ${new Header(this.data).render()}
+            ${this.componentToRender(state)}
+            ${new Footer().render()}
+        `;
+
+        documentFragment.appendChild(main);
+        document.querySelector("body").appendChild(documentFragment.firstElementChild);
+    }
+}
+
+const app = new App()
+app.render();

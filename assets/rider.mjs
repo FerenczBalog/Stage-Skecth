@@ -73,31 +73,34 @@ export default class Rider {
 
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="${this.props.carousel.image1}" class="d-block w-100" alt="kivancsiElefatKolyok1">
+                                    <img src="${this.props.carousel.image1}" class="d-block w-100" alt="CarouselPhoto">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image2}" class="d-block w-100" alt="kivancsiElefatKolyok2">
+                                    <img src="${this.props.carousel.image2}" class="d-block w-100" alt="CarouselPhoto1">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image3}" class="d-block w-100" alt="kivancsiElefatKolyok3">
+                                    <img src="${this.props.carousel.image3}" class="d-block w-100" alt="CarouselPhoto2">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image4}" class="d-block w-100" alt="kivancsiElefatKolyok4">
+                                    <img src="${this.props.carousel.image4}" class="d-block w-100" alt="CarouselPhoto3">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image5}" class="d-block w-100" alt="kivancsiElefatKolyok5">
+                                    <img src="${this.props.carousel.image5}" class="d-block w-100" alt="CarouselPhoto4">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image6}" class="d-block w-100" alt="kivancsiElefatKolyok6">
+                                    <img src="${this.props.carousel.image6}" class="d-block w-100" alt="CarouselPhoto5">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image7}" class="d-block w-100" alt="kivancsiElefatKolyok7">
+                                    <img src="${this.props.carousel.image7}" class="d-block w-100" alt="CarouselPhoto6">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image8}" class="d-block w-100" alt="kivancsiElefatKolyok8">
+                                    <img src="${this.props.carousel.image8}" class="d-block w-100" alt="CarouselPhoto7">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="${this.props.carousel.image9}" class="d-block w-100" alt="kivancsiElefatKolyok9">
+                                    <img src="${this.props.carousel.image9}" class="d-block w-100" alt="CarouselPhoto8">
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="${this.props.carousel.image10}" class="d-block w-100" alt="CarouselPhoto9">
                                 </div>
                             </div>
 
