@@ -29,7 +29,6 @@ export default class Rider {
         
         <div class="d-flex justify-content-center flex-reverse mt-5 mb-5">
             <div class="col-4">
-                <h2>${this.props.name}</h2>
                     <div style="font-size: 0.8rem; margin-right: 3rem">
                         <h5><strong>Technical description:</strong> </h5> 
                         </br>
