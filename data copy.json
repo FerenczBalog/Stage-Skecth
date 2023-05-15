@@ -170,23 +170,23 @@
         "ExtraSoundOut" : " ",
         "ExtraLightsOut" : "1db halogén reflektor",
 
-        "sketch" : "media/ludas/10.jpg",
+        "sketch" : "media/palko/palko.jpg",
 
         "video" : " ",
 
         "carousel" : {
-            "image1" : "media/ludas/1.jpg",
-            "image2" : "media/ludas/2.jpg",
-            "image3" : "media/ludas/3.jpg",
-            "image4" : "media/ludas/4.jpg",
-            "image5" : "media/ludas/5.jpg",
-            "image6" : "media/ludas/6.jpg",
-            "image7" : "media/ludas/7.jpg",
-            "image8" : "media/ludas/8.jpg",
-            "image9" : "media/ludas/9.jpg"
+            "image1" : "media/palko/1.jpg",
+            "image2" : "media/palko/2.jpg",
+            "image3" : "media/palko/3.jpg",
+            "image4" : "media/bitmap.png",
+            "image5" : "media/bitmap.png",
+            "image6" : "media/bitmap.png",
+            "image7" : "media/bitmap.png",
+            "image8" : "media/bitmap.png",
+            "image9" : "media/bitmap.png"
         },
 
-        "techAssistLeft" : "1. FÜGGŐNY KI - Megmozdul Dotti kezének az árnyéka - Balog Ferencz </br> 2. Lingispirt kivinni - A táncosok kimennek - Balog Ferencz, Horváth Jonatán </br> 3. Botokat beadni a paraván mögül - A hajdúk lekötik Matyit - Horváth Jonatán, Pünkösti Laura </br> 4. Paravánokat előre tólni - Matyi botja és Döbrögi ostora összecsapódik a levegőben - Balog Ferencz, Horváth Jonatán </br></br>"   
+        "techAssistLeft" : "1. FÜGGÖNY KI - Fúj a szél háromszor, függöny ki egy-egy kicsit mindegyik fújásra </br> 2. Fény váltás sárgára - Amikor Áronka kijön a Sárkánnyal </br>3. Fény váltás lilára - Amikor a lány változik át</br></br>"   
     },
     {   
         "id" : "5",
@@ -381,23 +381,23 @@
         "name" : "Brémai Múzsikusok",
         "year" : "2023-as bemutató",
         "description" : "This is a short description, it could be longer, but let it be a short one",
-        "image" : "media/ludas/banner.jpg",
+        "image" : "media/bremai/banner.jpg",
         
-        "director" : "Varga Ibolya",
-        "actors" : "Szűcs Tamás, Mostis Balázs, Patka Ildikó, Pünkösti Laura, Kötő Áron, Domokos Szabocs, Balogh Dorottya, Giriti Réka, Péter Izolda",
+        "director" : "Rumi László",
+        "actors" : "Szűcs Tamás, Mostis Balázs, Kötő Áron, Domokos Szabocs, Balogh Dorottya",
         "sound" : "Domokos Előd",
         "stageDir" : "Kovács Ferenc",
         "light" : "Almási Attila",
         "stageTech" : "Balog Ferencz, Horvát Jonatán",
 
-        "needs" : "14 aluminium dobogó (6db Nivtech, 8db PowerDynamics), 16 db 20cm-es dobogó láb, 8db 40cm-es szögletes fobogó láb, 12db 40cm-es Nivtech láb, 8db 60cm-es szögletes dobogó láb, 3 tekercs fehér szőnyeg, 2 fésű + állvány",
-        "time"  : "2h",
-        "sizes" : "4 dobogó rendszer(h/sz/m) cm : 1. 200x400x20 </br> 2. 400x400x40 </br> 3. 100x200x60",
-        "notes" : "A két 2x9 méter hosszú szőnyeg a 3-7. sor dobogóra, A harmadik tekercs az első két sor dobogóra",
+        "needs" : "400X500cm dobogórendszer 40cm magas lábakkal (6db Nivtech, 4db PowerDynamics), 2db 100X50cm fadobogó Áronkának",
+        "time"  : "1h 30'",
+        "sizes" : "",
+        "notes" : "",
         "ExtraSound" : " ",
-        "ExtraLights" : "1db halogén reflektor",
+        "ExtraLights" : "1db halogén reflektor munkafénynek",
 
-        "transport" : "utánfutó szükséges (MÉRETEK: h:3, sz:1.45, m:1.8)",
+        "transport" : "dobogók esetében utánfutó szükséges (MÉRETEK: h:3, sz:1.45, m:1.8), ellenkező esetben a díszlet elfér a dokkerben is.",
         "needsOut" : "2 fésű + állvány, négy panó/láb",
         "timeOut"  : "30'",
         "sizesOut" : " ",
@@ -405,7 +405,7 @@
         "ExtraSoundOut" : " ",
         "ExtraLightsOut" : "1db halogén reflektor",
 
-        "sketch" : "media/ludas/10.jpg",
+        "sketch" : "media/bremai/bremai.jpg",
 
         "video" : " ",
 

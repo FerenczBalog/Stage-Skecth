@@ -162,7 +162,7 @@
         "ExtraSoundOut":" ",
         "ExtraLightsOut":" ",
         
-        "sketch":"media/bitmap.png",
+        "sketch":"media/palko/palko.jpg",
         "video":" ",
         
         "carousel":{
@@ -178,7 +178,7 @@
             "image10":"media/bitmap.png"
         },
         
-        "techAssistLeft":" </br></br>"
+        "techAssistLeft" : "1. FÜGGÖNY KI - Fúj a szél háromszor, függöny ki egy-egy kicsit mindegyik fújásra </br> 2. Fény váltás sárgára - Amikor Áronka kijön a Sárkánnyal </br>3. Fény váltás lilára - Amikor a lány változik át</br></br>"   
     },
     {
         "id":"5",
@@ -186,6 +186,7 @@
         "year":"2021",
         "description":"This is a short description, it could be longer, but let it be a short one",
         "image":"media/bremai/banner.jpg",
+
         "director":" ",
         "actors":"Mostis Balázs, Domokos Szabocs, Balogh Dorottya, </br>Szűcs Tamás, Kötő Áron",
         "sound":"Domokos Előd",
@@ -193,22 +194,22 @@
         "light":"Almási Attila",
         "stageTech":"Balog Ferencz, Horvát Jonatán",
         
-        "needs":"Egy kis fadobogó jobb olalra előre a fal és az aluminíum dobogók közé Áronkának",
+        "needs":"400X500cm dobogórendszer 40cm magas lábakkal (6db Nivtech, 4db PowerDynamics), 2db 100X50cm fadobogó Áronkának",
         "time":"1h, 30'",
-        "sizes":"4x4 méter széles dobogó",
-        "notes":"a színpad fala eltakarva, a dobogók elejére egy régi színpadi láb ragasztva",
+        "sizes":"4x5 méter széles dobogó",
+        "notes":"A színpad fala eltakarva, a dobogók elejére egy régi színpadi láb ragasztva </br> A dobogórendszer a színpadszőnyegtől indul hátrafele a Nivtech dobogókkal </br> A színpad kétszer van lezárva, van egy háttér a neonos gerendán, és egy a szokásos helyen </br> A színészeknek a két háttér közé kell előkészíteni a böröndöket és a festett gitártokokat.",
         "ExtraSound":" ",
-        "ExtraLights":"1db halogén reflektor állványon a dobogók mögé",        
+        "ExtraLights":"1db halogén munkafénynek",        
         "transport":"A díszlet és a technika befér a Dokkerbe",
         
-        "needsOut":"2 panó/láb",
+        "needsOut":"2 panó/láb, 1 tornyocska állvány",
         "timeOut":"30'",
         "sizesOut":" ",
         "notesOut":" ",
         "ExtraSoundOut":" ",
         "ExtraLightsOut":" ",
         
-        "sketch":"media/plumplum/10.png",
+        "sketch":"media/bremai/bremai.jpg",
         "video":" ",
         
         "carousel":{
@@ -224,7 +225,7 @@
             "image10":"media/bitmap.png"
         },
         
-        "techAssistLeft":" </br></br>"
+        "techAssistLeft":" Amikor lement gitáron a dallam - csengetni és nyití a hátteret</br></br>"
     },
     {
         "id":"6",
@@ -239,8 +240,8 @@
         "light":"Almási Attila",
         "stageTech":"Balog Ferencz, Horvát Jonatán",
         
-        "needs":" ",
-        "time":"40'",
+        "needs":"1db normális szufita, 2 tépőzáras szufita, háromszögű asztal",
+        "time":"1h",
         "sizes":" ",
         "notes":"a színpad fala eltakarva, </br> két láb teljesen kinyítva, mögéjük egy-egy asztal, </br> a 2 tépőzáras szufita ugyanoda ahova a lábak </br> 1 szufita az első trégerre. </br>A lila asztal eleje egyvonalban a függönnyel, a második állás 15cm előre </br> ",
         "ExtraSound":" ",
@@ -254,7 +255,7 @@
         "ExtraSoundOut":" ",
         "ExtraLightsOut":" ",
         
-        "sketch":"media/bitmap.png",
+        "sketch":"media/arnyak/arnyak.jpg",
         "video":"",
         
         "carousel":{
@@ -322,7 +323,7 @@
         "id":"8",
         "name":"Eljöhetnél hozám!",
         "year":"2022",
-        "description":"This is a short description, it could be longer, but let it be a short one",
+        "description":" ",
         "image":"media/eljohetnel/banner.jpg",
         "director":"Varga Ibolya",
         "actors":"Szűcs Tamás, Mostis Balázs, Patka Ildikó, </br> Pünkösti Laura, Kötő Áron, </br> Domokos Szabocs, Balogh Dorottya, Giriti Réka, Péter Izolda, </br> Patka Ildikó, Szűcs Tamás",
@@ -333,8 +334,8 @@
         
         "needs":"Nagy lépcső, kis lépcső, kis dobogó",
         "time":"1h",
-        "sizes":" ",
-        "notes":" ", 
+        "sizes":"A saját dobogói közül 2db 100X200 cm, 1db 50x100cm </br> A két oldalsó talp a dobogóktól 108 cm (rendezői bal) illetve 110 cm (rendezői jobb) </br> Az első középső, melyen a ház van 130 cm a dobogóktól, a második középső 290 cm a dobogóktól </br> Az oldalsó és középső talp között legyen  100cm",
+        "notes":"Két láb oldalra, felfüggesztve, hogy az alja legyen egy vonalban a paraván tetejével", 
         "ExtraSound":" - ",
         "ExtraLights":"1db halogén reflektor", 
         
@@ -352,10 +353,10 @@
         },
             
         "transport":"utánfutó szükséges (MÉRETEK: h:3, sz:1.45, m:1.8)",
-        "needsOut":"2 fésű + állvány",
+        "needsOut":"2 fésű + állvány, 4 talp, a saját oldalpanói",
         "timeOut":"30'",
-        "sizesOut":" ",
-        "notesOut":" ",
+        "sizesOut":"Az oldalsó talpak legyenek a kapuk zsanérjaival párhuzamosak",
+        "notesOut":"",
         "ExtraSoundOut":" ",
         "ExtraLightsOut":"1db halogén reflektor",
         
