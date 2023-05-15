@@ -5,8 +5,6 @@ export default class Select {
        console.log(this.props)
     }
 
-
-
     render() {
         return `
         <select class=" form-select bg-black text-light rounded-2 border-dark">
