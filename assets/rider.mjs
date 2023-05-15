@@ -10,7 +10,7 @@ export default class Rider {
                 <h2>${this.props.name}</h2>
                 <div style="font-size: 0.8rem; margin-right: 3rem">
                     <p><strong>Bemutató:</strong> ${this.props.year}</p>
-                    <p><strong>Rendez:</strong> ${this.props.director}</p>
+                    <p><strong>Rendező:</strong> ${this.props.director}</p>
                     <p><strong>Előadók:</strong> ${this.props.actors}</p>
                     <p><strong>Ügyelő:</strong> ${this.props.stageDir}</p>
                     <p><strong>Hangosító:</strong> ${this.props.sound}</p>
